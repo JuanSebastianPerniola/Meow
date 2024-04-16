@@ -1,0 +1,33 @@
+[
+    {
+        "ejemplo1": {
+            "id": "Gato 1",
+            "Gato": 1,
+            "DisponibleAdopcion": false,
+            "ImagenUrl": "https://i.natgeofe.com/k/ad9b542e-c4a0-4d0b-9147-da17121b4c98/MOmeow1_3x4.png",  
+            "Ojos" :2
+
+        },
+        "ejemplo2": {
+            "id": "Gato 2",
+            "Gato": 2,
+            "DisponibleAdopcion": true ,
+            "ImagenUrl": "https://t3.ftcdn.net/jpg/06/78/34/18/360_F_678341834_RIflXrrwXxViWDjB2u3Cv6aBM35PNd71.jpg",
+            "Ojos" :2
+        },
+        "ejemplo3": {
+            "id": "Gato 3",
+            "Gato": 3,
+            "DisponibleAdopcion": true,
+            "ImagenUrl": "https://i.chzbgr.com/full/9771707136/hA96B3A96/cat-guys-have-bad-news-theronswag-woke-up-again.jpg",
+            "Ojos" :2
+        },
+        "ejemplo4": {
+            "id": "Gato 4",
+            "Gato": 4,
+            "DisponibleAdopcion": false,
+            "ImagenUrl": "https://static.printler.com/cache/8/e/1/a/0/c/8e1a0c16bf0c2cfa3bc131c209051cf5b64a2c46.jpg",
+            "Ojos" :2
+        }
+    }
+]
